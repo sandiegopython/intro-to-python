@@ -1,4 +1,37 @@
 geekgirl
 ========
 
-GeekGirl Conference 2014
+San Diego PyLadies hosted a workshop at the Geek Girl Tech Conference on
+Saturday June 21, 2014.
+
+
+IPython Notebook Files
+----------------------
+
+You can view each of the files online using `nbviewer`_.
+
+* `part-1.ipynb`_: numbers, strings, variables, booleans, "if statements"
+* `part-2.ipynb`_: lists and loops
+* `part-3.ipynb`_: defining functions and using modules
+
+
+Giving the talk
+---------------
+
+Before giving the talk, IPython Notebook must be installed:
+
+.. code-block:: bash
+
+    $ pip install 'ipython[notebook]'
+
+How to run an IPython Notebook:
+
+.. code-block:: bash
+
+    $ ipython notebook part-1.ipynb
+
+
+.. _nbviewer: http://nbviewer.ipython.org/
+.. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%201).ipynb
+.. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%202).ipynb
+.. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%203).ipynb
