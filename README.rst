@@ -30,6 +30,13 @@ How to run an IPython Notebook:
 
     $ ipython notebook part-1.ipynb
 
+At the workshop we gave the talk like this:
+
+* We opened a Python shell on the projector monitor and an IPython notebook on the laptop monitor
+* One person read the notebook and typed into the Python shell
+* Another person stood in front of the audience and explained each step
+* Questions were answered ad-hoc, occasionally by Googling answers or typing at the terminal
+
 
 Copying
 -------
