@@ -31,6 +31,14 @@ How to run an IPython Notebook:
     $ ipython notebook part-1.ipynb
 
 
+Copying
+-------
+
+You can give this talk too!
+
+This workshop is licensed under the GNU General Public License v2.  See LICENSE file for more details.
+
+
 .. _nbviewer: http://nbviewer.ipython.org/
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%201).ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%202).ipynb
