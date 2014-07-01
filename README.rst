@@ -47,6 +47,6 @@ This workshop is licensed under the GNU General Public License v2.  See LICENSE 
 
 
 .. _nbviewer: http://nbviewer.ipython.org/
-.. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%201).ipynb
-.. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%202).ipynb
-.. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/Intro%20to%20Python%20(Part%203).ipynb
+.. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-1.ipynb
+.. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-2.ipynb
+.. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-3.ipynb
