@@ -16,8 +16,8 @@ You can view each of the files online using `nbviewer`_.
 * `part-1.ipynb`_: numbers, strings, variables, booleans, "if statements"
 * `part-2.ipynb`_: lists and loops
 * `part-3.ipynb`_: defining functions and using modules
-* `part-4.ipynb`_: using third-party libraries
-* `part-5.ipynb`_: ???
+* `part-4.ipynb`_: sets, dictionaries, list comprehensions, collections?
+* `part-5.ipynb`_: using third-party libraries
 
 
 Giving the talk
