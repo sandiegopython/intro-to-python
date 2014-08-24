@@ -1,8 +1,11 @@
-geekgirl
-========
+Intro to Python Workshop, San Diego, 2014
+==========================================
 
-San Diego PyLadies hosted a workshop at the Geek Girl Tech Conference on
-Saturday June 21, 2014.
+Brought to you by San Diego Python, San Diego PyLadies, Inland Empire Python, 
+Inland Empire PyLadies.
+
+This repo is adapted from the geekgirl repo, which was for the San Diego PyLadies 
+workshop at the Geek Girl Tech Conference on Saturday June 21, 2014.
 
 
 IPython Notebook Files
