@@ -7,21 +7,28 @@ Inland Empire PyLadies.
 This repo is adapted from the geekgirl repo, which was for the San Diego PyLadies 
 workshop at the Geek Girl Tech Conference on Saturday June 21, 2014.
 
+Instructions For Students
+=============================
+
+Before coming to the workshop, do the pre-workshop setup: `part-0.ipynb`_
+
+Instructions For Instructors
+=============================
 
 IPython Notebook Files
 ----------------------
 
 You can view each of the files online using `nbviewer`_.
 
-* `part-0.ipynb`_: pre-workshop setup
-* `part-1.ipynb`_: numbers, strings, variables, booleans, "if statements"
-* `part-2.ipynb`_: lists and loops
-* `part-3.ipynb`_: defining functions and using modules
-* `part-4.ipynb`_: sets, dictionaries, list comprehensions, collections?
-* `part-5.ipynb`_: using third-party libraries
+* `part-0.ipynb`_: Pre-workshop setup
+* `part-1.ipynb`_: Numbers, strings, variables, booleans, "if statements"
+* `part-2.ipynb`_: Lists and loops
+* `part-3.ipynb`_: Defining functions and using modules
+* `part-4.ipynb`_: Sets, dictionaries, list comprehensions, collections?
+* `part-5.ipynb`_: Using third-party libraries
 
 
-Giving the talk
+Giving the Talk
 ---------------
 
 Before giving the talk, IPython Notebook must be installed:
