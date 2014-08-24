@@ -13,7 +13,7 @@ IPython Notebook Files
 
 You can view each of the files online using `nbviewer`_.
 
-* `setup.ipynb`_: pre-workshop setup
+* `part-0.ipynb`_: pre-workshop setup
 * `part-1.ipynb`_: numbers, strings, variables, booleans, "if statements"
 * `part-2.ipynb`_: lists and loops
 * `part-3.ipynb`_: defining functions and using modules
@@ -53,7 +53,7 @@ This workshop is licensed under the GNU General Public License v2.  See LICENSE 
 
 
 .. _nbviewer: http://nbviewer.ipython.org/
-.. _setup.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/setup.ipynb
+.. _part-0.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-0.ipynb
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-2.ipynb
 .. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-3.ipynb
