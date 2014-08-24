@@ -16,6 +16,8 @@ You can view each of the files online using `nbviewer`_.
 * `part-1.ipynb`_: numbers, strings, variables, booleans, "if statements"
 * `part-2.ipynb`_: lists and loops
 * `part-3.ipynb`_: defining functions and using modules
+* `part-4.ipynb`_: sets, dictionaries, list comprehensions, collections?
+* `part-5.ipynb`_: using third-party libraries
 
 
 Giving the talk
@@ -53,3 +55,5 @@ This workshop is licensed under the GNU General Public License v2.  See LICENSE 
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-2.ipynb
 .. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-3.ipynb
+.. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-4.ipynb
+.. _part-5.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-5.ipynb
