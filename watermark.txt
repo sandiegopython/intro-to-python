@@ -1,0 +1,7 @@
+Watermark is a project by Sebastian Rasbt (GitHub @rasbt).
+It's a nifty "IPython magic extension for printing date and time stamps, version numbers, and hardware information".
+
+To check if our workshop's IPython notebook is running under 3.4.1, the following 3 line snippet can be pasted into a cell:
+%install_ext https://raw.githubusercontent.com/rasbt/watermark/master/watermark.py
+%load_ext watermark
+%watermark
