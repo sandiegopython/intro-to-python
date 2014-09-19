@@ -56,7 +56,7 @@ Copying
 
 You can give this talk too!
 
-This workshop is licensed under the GNU General Public License v2.  See LICENSE file for more details.
+This work is licensed under a `Creative Commons Attribution 4.0 International License`_. See LICENSE_ file for more details.
 
 
 .. _nbviewer: http://nbviewer.ipython.org/
@@ -66,3 +66,5 @@ This workshop is licensed under the GNU General Public License v2.  See LICENSE 
 .. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-3.ipynb
 .. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-4.ipynb
 .. _part-5.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-5.ipynb
+.. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
+.. _LICENSE: LICENSE
