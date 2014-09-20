@@ -47,7 +47,7 @@ in case anyone falls behind and misses something.
 * Functions and modules
 
     * Slides
-    * Code examples: `part-3-code`_
+    * Code examples: `part3/`_
 
 * List comprehensions, dictionaries, and tuples
 
@@ -97,7 +97,7 @@ This work is licensed under a `Creative Commons Attribution 4.0 International Li
 .. _part-0.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-0.ipynb
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-2.ipynb
-.. _part-3-code: https://github.com/pythonsd/intro-to-python/tree/master/part3
+.. _`part3/`: https://github.com/pythonsd/intro-to-python/tree/master/part3
 .. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-4.ipynb
 .. _part-5.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-5.ipynb
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
