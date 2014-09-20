@@ -26,7 +26,7 @@ in case anyone falls behind and misses something.
 
 * 20 Cool Things You Can Do With Python, Part A
 
-    * Slides
+    * Slides: `20-things-part-a.pdf`_
 
 * Part 1: Numbers, strings, variables, booleans, "if statements"
 
@@ -42,11 +42,11 @@ in case anyone falls behind and misses something.
 
 * 20 Cool Things You Can Do With Python, Part B
 
-    * Slides
+    * Slides: `20-things-part-b.pdf`_
 
 * Functions and modules
 
-    * Slides
+    * Slides: `part-3.pdf`_
     * Code examples: `part3/`_
 
 * List comprehensions, dictionaries, and tuples
@@ -54,6 +54,8 @@ in case anyone falls behind and misses something.
     * REPL demo examples: `part-4.ipynb`_
 
 * Conclusion: stdlib, PyPI, next steps
+
+    * Slides: `conclusion.pdf`_
 
 * Survey
 
@@ -95,10 +97,13 @@ This work is licensed under a `Creative Commons Attribution 4.0 International Li
 
 .. _nbviewer: http://nbviewer.ipython.org/
 .. _part-0.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-0.ipynb
+.. _20-things-part-a.pdf: https://github.com/pythonsd/intro-to-python/tree/master/slides/20-things-part-a.pdf
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-2.ipynb
+.. _20-things-part-b.pdf: https://github.com/pythonsd/intro-to-python/tree/master/slides/20-things-part-b.pdf
+.. _part-3.pdf: https://github.com/pythonsd/intro-to-python/tree/master/slides/part-3.pdf
 .. _`part3/`: https://github.com/pythonsd/intro-to-python/tree/master/part3
 .. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-4.ipynb
-.. _part-5.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-5.ipynb
+.. _conclusion.pdf: https://github.com/pythonsd/intro-to-python/tree/master/slides/conclusion.pdf
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
 .. _LICENSE: LICENSE
