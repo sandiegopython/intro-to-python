@@ -12,21 +12,53 @@ Instructions For Students
 
 Before coming to the workshop, do the pre-workshop setup: `part-0.ipynb`_
 
+Workshop Agenda and Files
+-------------------------
+
+Students can follow along with the slides and speaker notes. This is helpful 
+in case anyone falls behind and misses something.
+
+9:30-12:30 Morning:
+
+* Welcome and Intros
+
+    * Finish setup if you haven't yet: `part-0.ipynb`_
+
+* 20 Cool Things You Can Do With Python, Part A
+
+    * Slides
+
+* Part 1: Numbers, strings, variables, booleans, "if statements"
+
+    * REPL demo examples: `part-1.ipynb`_
+
+* Part 2: Lists and loops
+
+    * REPL demo examples: `part-2.ipynb`_
+
+12:30-1:15pm Lunch break
+
+1:15-4pm Afternoon:
+
+* 20 Cool Things You Can Do With Python, Part B
+
+    * Slides
+
+* Functions and modules
+
+    * Slides
+    * Code examples: `part-3-code`_
+
+* List comprehensions, dictionaries, and tuples
+
+    * REPL demo examples: `part-4.ipynb`_
+
+* Conclusion: stdlib, PyPI, next steps
+
+* Survey
+
 Instructions For Instructors
 =============================
-
-IPython Notebook Files
-----------------------
-
-You can view each of the files online using `nbviewer`_.
-
-* `part-0.ipynb`_: Pre-workshop setup
-* `part-1.ipynb`_: Numbers, strings, variables, booleans, "if statements"
-* `part-2.ipynb`_: Lists and loops
-* `part-3.ipynb`_: Defining functions and using modules
-* `part-4.ipynb`_: Sets, dictionaries, list comprehensions, collections?
-* `part-5.ipynb`_: Using third-party libraries
-
 
 Giving the Talk
 ---------------
@@ -42,6 +74,8 @@ How to run an IPython Notebook:
 .. code-block:: bash
 
     $ ipython notebook part-1.ipynb
+
+You can view each of the files online using `nbviewer`_.
 
 At the workshop we gave the talk like this:
 
@@ -63,7 +97,7 @@ This work is licensed under a `Creative Commons Attribution 4.0 International Li
 .. _part-0.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-0.ipynb
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-2.ipynb
-.. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-3.ipynb
+.. _part-3-code: https://github.com/pythonsd/intro-to-python/tree/master/part3
 .. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-4.ipynb
 .. _part-5.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-5.ipynb
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
