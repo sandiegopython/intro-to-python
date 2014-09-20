@@ -18,7 +18,8 @@ Workshop Agenda and Files
 Students can follow along with the slides and speaker notes. This is helpful 
 in case anyone falls behind and misses something.
 
-9:30-12:30 Morning:
+9:30-12:30 Morning
+~~~~~~~~~~~~~~~~~~~
 
 Welcome and Intros
 
@@ -37,8 +38,12 @@ Part 2: Lists and loops
 * REPL demo examples: `part-2.ipynb`_
 
 12:30-1:15pm Lunch break
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1:15-4pm Afternoon:
+Eat and meet other students.
+
+1:15-4pm Afternoon
+~~~~~~~~~~~~~~~~~~~
 
 20 Cool Things You Can Do With Python, Part B
 
@@ -57,7 +62,7 @@ Conclusion: stdlib, PyPI, next steps
 
 * Slides: `conclusion.pdf`_
 
-Survey
+* `Survey`_
 
 Instructions For Instructors
 =============================
@@ -105,5 +110,6 @@ This work is licensed under a `Creative Commons Attribution 4.0 International Li
 .. _`part3/`: https://github.com/pythonsd/intro-to-python/tree/master/part3
 .. _part-4.ipynb: http://nbviewer.ipython.org/github/pythonsd/intro-to-python/blob/master/part-4.ipynb
 .. _conclusion.pdf: https://github.com/pythonsd/intro-to-python/tree/master/slides/conclusion.pdf
+.. _Survey: https://www.surveymonkey.com/s/8KX9GGQ
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
 .. _LICENSE: LICENSE
