@@ -20,44 +20,44 @@ in case anyone falls behind and misses something.
 
 9:30-12:30 Morning:
 
-* Welcome and Intros
+Welcome and Intros
 
-    * Finish setup if you haven't yet: `part-0.ipynb`_
+* Finish setup if you haven't yet: `part-0.ipynb`_
 
-* 20 Cool Things You Can Do With Python, Part A
+20 Cool Things You Can Do With Python, Part A
 
-    * Slides: `20-things-part-a.pdf`_
+* Slides: `20-things-part-a.pdf`_
 
-* Part 1: Numbers, strings, variables, booleans, "if statements"
+Part 1: Numbers, strings, variables, booleans, "if statements"
 
-    * REPL demo examples: `part-1.ipynb`_
+* REPL demo examples: `part-1.ipynb`_
 
-* Part 2: Lists and loops
+Part 2: Lists and loops
 
-    * REPL demo examples: `part-2.ipynb`_
+* REPL demo examples: `part-2.ipynb`_
 
 12:30-1:15pm Lunch break
 
 1:15-4pm Afternoon:
 
-* 20 Cool Things You Can Do With Python, Part B
+20 Cool Things You Can Do With Python, Part B
 
-    * Slides: `20-things-part-b.pdf`_
+* Slides: `20-things-part-b.pdf`_
 
-* Functions and modules
+Functions and modules
 
-    * Slides: `part-3.pdf`_
-    * Code examples: `part3/`_
+* Slides: `part-3.pdf`_
+* Code examples: `part3/`_
 
-* List comprehensions, dictionaries, and tuples
+List comprehensions, dictionaries, and tuples
 
-    * REPL demo examples: `part-4.ipynb`_
+* REPL demo examples: `part-4.ipynb`_
 
-* Conclusion: stdlib, PyPI, next steps
+Conclusion: stdlib, PyPI, next steps
 
-    * Slides: `conclusion.pdf`_
+* Slides: `conclusion.pdf`_
 
-* Survey
+Survey
 
 Instructions For Instructors
 =============================
