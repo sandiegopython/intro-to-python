@@ -7,6 +7,11 @@ Inland Empire PyLadies.
 This repo is adapted from the geekgirl repo, which was for the San Diego PyLadies 
 workshop at the Geek Girl Tech Conference on Saturday June 21, 2014.
 
+Run it in your browser:
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/pythonsd/intro-to-python/master
+
 Instructions For Students
 =============================
 
